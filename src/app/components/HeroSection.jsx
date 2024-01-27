@@ -44,7 +44,7 @@ const HeroSection = () => {
               href="https://wa.me/56999437664"
               className="px-6 inline-block py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-200 text-white"
             >
-              Hablemos
+             ¡Hablemos!
             </Link>
             <Link
               href="https://www.linkedin.com/in/ignacio-andr%C3%A9s-g%C3%B3mez-d%C3%ADaz-896518126/"
